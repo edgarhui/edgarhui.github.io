@@ -16,8 +16,8 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
-  #- {file: "research.md", title:"Research"}
-  #- {file: "teaching.md", title:"Teaching"}
+  #- {file: "research.md"}
+  #- {file: "teaching.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:hongtao.hui@mail.mcgill.ca"}
