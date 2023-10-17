@@ -1,10 +1,10 @@
 ---
-titel: 
 permalink: "/about/"
 layout: page
 ---
 
 ## Welcome to my website!
+
 I am a Ph.D. candidate in the Department of Economics at McGill University. My research interests are in the fields of Macroeconomics, Monetary Economics and Financial Economics. I will be on the job market in the 2023-2024 academic year. 
 
 
