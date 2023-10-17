@@ -1,4 +1,4 @@
-title: "Hongtao(Edgar) Hui"
+getitle: "Hongtao(Edgar) Hui"
 author: "Hongtao Huir"
 description: "Hongtao Hui's Personal Website @2023"
 permalink: /:title/
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "home.md", title:"Home"}
+  - {file: "homepage.md", title:"Home"}
   - {file: "research.md", title "Research"}
   - {file: "teaching.md", title "Teaching"}
 
