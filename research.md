@@ -11,5 +11,5 @@ Abstract: This paper develops a multi-sector DSGE model to study if different as
 
 ## Work in Progress
 
- - "Land Finance, Housing Market and Monetary Policy, and Fiscal Policy"
+ - "Land Finance, Housing Market, Monetary Policy, and Fiscal Policy"
  - "SVARs with Narrative Sign Restrictions: Effects of the Volcker Reform and Quantitative Easing"
